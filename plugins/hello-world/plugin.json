@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple starter plugin to help you get started creating your own Claude Code plugins",
+  "author": {
+    "name": "Vibespace User",
+    "email": "user@vibespace.dev"
+  },
+  "categories": ["starter", "example"],
+  "tags": ["hello-world", "starter", "example", "tutorial"]
+}
+
